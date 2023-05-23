@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13happier
+- 👋 Hi, I’m Avinash Singh
 - 👀 I’m interested in software development and machine learning
 - 🌱 I’m currently learning software development and machine learning
 - 💞️ I’m looking to collaborate on projects related to my interest
