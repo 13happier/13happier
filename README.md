@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avinash Singh
-- 👀 I’m interested in software development and machine learning
-- 🌱 I’m currently learning software development and machine learning
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on projects related to my interest
 - 📫 How to reach me ...
 
